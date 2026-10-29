@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+data/catalog.json
+data/catalog.json.tmp
+.DS_Store
